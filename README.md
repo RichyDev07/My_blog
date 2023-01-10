@@ -1,1 +1,3 @@
-This is my blog 
+# Example blog page
+
+This is example blog page
