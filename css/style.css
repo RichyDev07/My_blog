@@ -1,0 +1,71 @@
+
+
+
+
+.body{
+    
+    background-image: url("https://as1.ftcdn.net/v2/jpg/05/56/80/94/1000_F_556809499_yH16jp2d4rl3MneDgGvNzttAEcghBzDg.jpg");
+}
+.section1{
+    background-color:white ;
+    margin-top: 10cm;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 5px;
+    box-shadow: 1px 1px 10px 0px rgb(0 0 0 / 50%);
+    padding: 20px 20px;
+    border-radius: 10px;
+    
+    
+    
+
+
+}
+.state{
+
+    font-size: 28px;
+    display: flex;
+    margin-right: 5%;
+    margin-left: 5%;
+    
+}.How{
+    font-size: 50px;
+    text-align: left;
+    color: #154272;
+    
+}
+.but{
+    background-color: #009B01;
+    font-size: larger;
+    margin-bottom: 2cm;
+    line-height: 1.2cm;
+    border-radius: 4px;
+}
+.apply{
+    text-decoration: none;
+    font-size: larger;
+    color:white;
+
+    
+}
+.btu{
+    margin-right: 10cm;
+    text-decoration: none;
+    font-size: larger;
+    background-color:#154272;
+    font-weight: bold;
+    line-height: 1.2cm;
+    border-radius: 4px;
+    float: right;
+
+
+
+
+    
+}.website{
+    text-decoration: none;
+    font-size: larger;
+    color: white;
+    margin-top: 2cm;
+
+}
